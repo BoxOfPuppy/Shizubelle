@@ -1,0 +1,56 @@
+[
+{ "op" : "add", "path" : "/items/shizubelle", "value" : [
+	[0, [
+		{
+			"head" : [ { "name" : "humantier1head" } ],
+			"chest" : [ { "name" : "humantier1chest" } ],
+			"legs" : [ { "name" : "humantier1pants" } ],
+			"primary" : [
+				"npcbroadsword"
+			],
+			"sheathedprimary" : [
+				"npcassaultrifle"
+			]
+		}
+	] ],
+	[2, [
+		{
+			"head" : [ { "name" : "humantier2lophead" } ],
+			"chest" : [ { "name" : "humantier2chest" } ],
+			"legs" : [ { "name" : "humantier2pants" } ],
+			"primary" : [
+				"npcbroadsword"
+			],
+			"sheathedprimary" : [
+				"npcassaultrifle"
+			]
+		}
+	] ],
+	[3, [
+		{
+			"head" : [ { "name" : "humantier3lophead" } ],
+			"chest" : [ { "name" : "humantier3chest" } ],
+			"legs" : [ { "name" : "humantier3pants" } ],
+			"primary" : [
+				"npcbroadsword"
+			],
+			"sheathedprimary" : [
+				"npcassaultrifle"
+			]
+		}
+	] ],
+	[4, [
+		{
+			"head" : [ { "name" : "humantier4lophead" } ],
+			"chest" : [ { "name" : "humantier4chest" } ],
+			"legs" : [ { "name" : "humantier4pants" } ],
+			"primary" : [
+				"npcbroadsword"
+			],
+			"sheathedprimary" : [
+				"npcassaultrifle"
+			]
+		}
+	] ]
+] }
+]

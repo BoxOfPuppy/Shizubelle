@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/shizubelle",
+    "value": [
+      "Hey <entityname>",
+      "Did you sleep through your SAIL alarms? That is so you.",
+      "You don't look half bad, for having just woken up"
+    ]
+  }
+]

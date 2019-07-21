@@ -1,0 +1,13 @@
+{
+	"id" : "shizubellediary",
+	"title" : "Survivors Log",
+	"description" : "The diary of a lost soul.",
+	"icon" : "shizubellecover.png",
+	"contentPages" : [
+    "Lore here."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

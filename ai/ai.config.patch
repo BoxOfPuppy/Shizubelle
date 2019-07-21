@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/shizubelle",
+		"value" : {
+			"aiFrames" : "shizubelleAI.png",
+			"portraitFrames" : "portraits/shizubelleportrait.png",
+			"staticFrames" : "staticshizubelle.png"	
+		}
+	}
+]

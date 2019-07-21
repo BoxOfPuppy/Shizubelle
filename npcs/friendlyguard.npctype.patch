@@ -1,0 +1,13 @@
+[
+	{ "op" : "add",
+		"path" : "/scriptConfig/dialog/hail/shizubelle",
+		"value" : {
+			"default" : [
+				"I wasn't slacking off, I swear",
+				"Man, look at me, being all guard-y and not sleeping on the job.",
+				"I can to keep the area clear of hostile forces. Easy stuff.",
+				"I love being employed as a guard. Gives me lots of thinking time."
+			]
+		}
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/shizubelle",
+		"value" : [
+		    "/ships/shizubelle/shizubellet0.structure",
+			"/ships/shizubelle/shizubellet1.structure",
+			"/ships/shizubelle/shizubellet2.structure",
+			"/ships/shizubelle/shizubellet3.structure",
+			"/ships/shizubelle/shizubellet4.structure",
+			"/ships/shizubelle/shizubellet5.structure",
+			"/ships/shizubelle/shizubellet6.structure",
+			"/ships/shizubelle/shizubellet7.structure",
+			"/ships/shizubelle/shizubellet8.structure"
+		]
+	}
+]

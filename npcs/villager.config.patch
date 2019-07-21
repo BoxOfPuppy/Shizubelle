@@ -1,0 +1,14 @@
+[  
+  {  
+    "op":"add",
+    "path":"/hail/shizubelle",
+    "value":{  
+      "default":[  
+        "Hello there Do you need something?",
+        "*Hums softly*",
+        "Oh, hey.",
+        "Becareful out there.",
+        "What a strange place..."      ],
+      }
+  }
+]

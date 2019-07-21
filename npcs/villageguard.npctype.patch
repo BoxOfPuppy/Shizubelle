@@ -1,0 +1,121 @@
+[
+{ "op" : "add", "path" : "/items/shizubelle", "value" : [
+	[0, [
+		{
+			"head" : [ { "name" : "humantier1head" } ],
+			"chest" : [ { "name" : "humantier1chest" } ],
+			"legs" : [ { "name" : "humantier1pants" } ],
+			"primary" : [
+				"npcspear",
+				"npcaxe",
+				"npchammer",
+				"npcbroadsword",
+				"npcshortsword"
+			],
+			"sheathedprimary" : [
+				"npcpistol",
+				"npcmachinepistol"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		},
+		{
+			"head" : [ { "name" : "humantier1head" } ],
+			"chest" : [ { "name" : "humantier1chest" } ],
+			"legs" : [ { "name" : "humantier1pants" } ],
+			"primary" : [
+				"npcassaultrifle",
+				"npcshotgun",
+				"npcsniperrifle"
+			],
+			"sheathedprimary" : [
+				"npcdagger"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		}
+	] ],
+	[2, [
+		{
+			"head" : [ { "name" : "humantier2lophead" } ],
+			"chest" : [ { "name" : "humantier2chest" } ],
+			"legs" : [ { "name" : "humantier2pants" } ],
+			"primary" : [
+				"npcspear",
+				"npcaxe",
+				"npchammer",
+				"npcbroadsword",
+				"npcshortsword"
+			],
+			"sheathedprimary" : [
+				"npcpistol",
+				"npcmachinepistol"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		},
+		{
+			"head" : [ { "name" : "humantier2lophead" } ],
+			"chest" : [ { "name" : "humantier2chest" } ],
+			"legs" : [ { "name" : "humantier2pants" } ],
+			"primary" : [
+				"npcassaultrifle",
+				"npcshotgun",
+				"npcsniperrifle"
+			],
+			"sheathedprimary" : [
+				"npcdagger"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		}
+	] ],
+	[3, [
+		{
+			"head" : [ { "name" : "humantier3lophead" } ],
+			"chest" : [ { "name" : "humantier3chest" } ],
+			"legs" : [ { "name" : "humantier3pants" } ],
+			"primary" : [
+				"npcspear",
+				"npcaxe",
+				"npchammer",
+				"npcbroadsword",
+				"npcshortsword"
+			],
+			"sheathedprimary" : [
+				"npcpistol",
+				"npcmachinepistol"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		},
+		{
+			"head" : [ { "name" : "humantier3lophead" } ],
+			"chest" : [ { "name" : "humantier3chest" } ],
+			"legs" : [ { "name" : "humantier3pants" } ],
+			"primary" : [
+				"npcassaultrifle",
+				"npcshotgun",
+				"npcsniperrifle"
+			],
+			"sheathedprimary" : [
+				"npcdagger"
+			],
+			"alt" : [
+				{ "name" : "commonsmallshield" },
+				{ "name" : "commonlargeshield" }
+			]
+		}
+	] ]
+] }
+]
